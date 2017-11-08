@@ -33,7 +33,7 @@
   "homepage": "https://github.com/repocho/raml-mocker",
   "dependencies": {
     "async": "latest",
-    "faker": "^3.1.0",
+    "faker": "^4.1.0",
     "json-schema-faker": "^0.4.6",
     "json-schema-ref-parser": "^4.0.3",
     "lodash": "^4.15.0",
