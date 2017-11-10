@@ -1,6 +1,6 @@
 {
   "name": "raml-mocker",
-  "version": "0.2.7",
+  "version": "1.1.2-ab",
   "description": "Node module to create random responses to requests based on RAML rest definition and json-schema.",
   "main": "src/index.js",
   "directories": {
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/repocho/raml-mocker",
   "dependencies": {
     "async": "latest",
-    "faker": "^4.1.0",
+    "faker": "github:marak/faker.js#d92b012aefd60fdc919d03a147dc0f28ababf0cd",
     "json-schema-faker": "^0.4.6",
     "json-schema-ref-parser": "^4.0.3",
     "lodash": "^4.15.0",
